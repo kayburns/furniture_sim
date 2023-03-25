@@ -23,6 +23,6 @@
         <geom class="kettle_collision" pos="-0.092 0 0.18" size="0.023 0.06" type="capsule" mass='.02'/>
         <geom class="kettle_collision" euler="0 2.25 0" pos="-0.126 0 0.07" size="0.021 0.05" type="cylinder" mass='.02'/>
         <geom class="kettle_collision" pos="0 0 0.065" size="0.122 0.065" type="cylinder" mass='.8'/>
-        <site type="sphere" name="kettle_site1" pos="0 0 0.259" size=".01" group="3" rgba="1 0 0 1"/>
+        <site type="sphere" name="kettle_site0" pos="0 0 0.259" size=".01" group="3" rgba="1 0 0 1"/>
     </body>
 </mujocoinclude>
